@@ -14,7 +14,7 @@
                 <table class="table table-bordered table-hover table-striped">
                     <thead>
                         <tr>
-                            <th>ID</th>
+                            <th>Id</th>
                             <th>Nombre</th>
                             <th>Slug</th>
                             <th></th>
